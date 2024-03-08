@@ -52,3 +52,6 @@ Applied Conditional Formatting to enhance data presentation by applying rules, a
 
 
 -------------------------
+![AtilQ Hardwares Sales vs Target-1](https://github.com/loksai1612/Excel-sales_analytics/assets/162705093/00097a14-5824-49e3-a2f1-4e3346cc4657)
+![AtilQ Hardwares Sales Project-1](https://github.com/loksai1612/Excel-sales_analytics/assets/162705093/68f5a337-5add-4225-b712-0777ac65e959)
+![AtilQ Hardwares Sales Project-2](https://github.com/loksai1612/Excel-sales_analytics/assets/162705093/c1ed6997-a9f4-4b83-9d58-8aaf73647ce6)
